@@ -16,4 +16,8 @@ React Icons
 </li>
 </ul>
 
-<div align="center">![](Preview.png)</div>
+<div align="center">
+
+![](Preview.png)
+
+</div>
